@@ -1,0 +1,8 @@
+{
+  "paths": {
+    "amber/es2015-polyfills": "./index"
+  },
+  "shim": {
+    "amber/browser-compatibility": ["./es2015-polyfills"]
+  }
+}
