@@ -1,0 +1,28 @@
+{
+  "name": "amber-compat-es2015",
+  "homepage": "https://github.com/amber-smalltalk/amber-compat-es2015",
+  "authors": [
+    "Herbert Vojčík <herby@mailbox.sk>"
+  ],
+  "description": "Polyfills for ES2015 (aka ES6) features that Amber needs.",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Amber",
+    "Smalltalk",
+    "es6",
+    "es2015",
+    "polyfill",
+    "shim"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
