@@ -1,6 +1,6 @@
 {
   "name": "amber-compat-es2015",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Polyfills for ES2015 (aka ES6) features that Amber needs.",
   "main": "index.js",
   "scripts": {
