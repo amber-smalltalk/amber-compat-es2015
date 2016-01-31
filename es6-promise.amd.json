@@ -1,5 +1,5 @@
 {
   "paths": {
-    "amber/es6-promise": ["./promise", "./dist/promise"]
+    "amber/es6-promise": ["./promise", "./dist/es6-promise"]
   }
 }
