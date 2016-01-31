@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/amber-smalltalk/amber-compat-es2015/issues"
   },
-  "homepage": "https://github.com/amber-smalltalk/amber-compat-es2015#readme"
+  "homepage": "https://github.com/amber-smalltalk/amber-compat-es2015#readme",
+  "dependencies": {
+    "es6-promise": "^3.0.2"
+  }
 }
